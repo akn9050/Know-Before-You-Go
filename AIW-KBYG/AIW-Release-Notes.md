@@ -14,9 +14,9 @@ While creating Host Pool, there are new options avaiable in UI, lab guide UI is 
   * **Expected Release Date**: 06 August 2021
 
 
-### Azure Immersion Workshop : Analytics (Updated on 02 August 2021)
+### Analytics (Updated on 02 August 2021)
 
-New Tasks and steps has been included in Exercise 1, Exercise 2, Exercise 5.
+Lab guide ha been updated with additional Tasks and steps included in Exercise 1, Exercise 2, Exercise 5.
 
 
 
